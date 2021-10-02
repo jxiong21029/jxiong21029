@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jxiong21029
-- 👀 I’m interested in data science and machine learning, especially RL. 
 - 📫 Contact: jxiong60@gatech.edu xor jxiong21029@gmail.com
 
 <!---
