@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jerry Xiong, first year student at the Georgia Institute of Technology
+- 👋 I’m Jerry Xiong, first year student at the Georgia Institute of Technology
 - 📫 Contact: jxiong60 at gatech dot edu
 
 <!---
