@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jxiong21029
-- 📫 Contact: jxiong60@gatech.edu xor jxiong21029@gmail.com
+- 👋 Hi, I’m Jerry Xiong, first year student at the Georgia Institute of Technology
+- 📫 Contact: jxiong60 at gatech dot edu
 
 <!---
 jxiong21029/jxiong21029 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
